@@ -17,7 +17,8 @@ members = [
     "mls-rs-codec",
     "mls-rs-codec-derive",
     "mls-rs-uniffi",
-    "mls-rs-uniffi/uniffi-bindgen",
+    "mls-rs-uniffi/uniffi-bindgen", 
+    "mls-rs-provider-web",
 ]
 
 default-members = [
@@ -33,4 +34,5 @@ default-members = [
     "mls-rs-provider-sqlite",
     "mls-rs-codec",
     "mls-rs-uniffi",
+    "mls-rs-provider-web"
 ]
